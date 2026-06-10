@@ -3,8 +3,8 @@
         "steamId": 1805110,
         "name": "Solarpunk",
         "savePaths": [
-            "<path-to-game>\\Solarpunk\\Saved\\Config\\Windows",
-            "AppData\\Local\\Solarpunk\\Saved\\SaveGames"
+            "%LOCALAPPDATA%\\Solarpunk\\Saved\\Config\\Windows",
+            "%LOCALAPPDATA%\\Solarpunk\\Saved\\SaveGames"
         ],
         "coverUrl": "https://thumbnails.pcgamingwiki.com/b/b5/Solarpunk_cover.jpg/300px-Solarpunk_cover.jpg",
         "coop": true,
