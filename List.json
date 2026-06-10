@@ -1,7 +1,1616 @@
-{
-  "steamId": 1805110,
-  "name": "Solarpunk",
-  "savePath": "%LOCALAPPDATA%\\Solarpunk\\Saved\\SaveGames",
-  "coverUrl": "...",
-  "coop": true
-}
+[
+    {
+        "steamId": null,
+        "name": "Home",
+        "savePaths": [],
+        "coverUrl": null,
+        "coop": false,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/Home"
+    },
+    {
+        "steamId": null,
+        "name": "List of lists",
+        "savePaths": [],
+        "coverUrl": null,
+        "coop": false,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/List_of_lists"
+    },
+    {
+        "steamId": null,
+        "name": "Troubleshooting guide",
+        "savePaths": [],
+        "coverUrl": null,
+        "coop": false,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/Troubleshooting_guide"
+    },
+    {
+        "steamId": null,
+        "name": "PCGamingWiki:Taxonomy",
+        "savePaths": [],
+        "coverUrl": null,
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/Taxonomy"
+    },
+    {
+        "steamId": null,
+        "name": "PC gaming online communities",
+        "savePaths": [],
+        "coverUrl": null,
+        "coop": false,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/PC_gaming_online_communities"
+    },
+    {
+        "steamId": 1454890,
+        "name": "Titanfall",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/0/03/Titanfall_-_cover.jpg/300px-Titanfall_-_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Titanfall"
+    },
+    {
+        "steamId": 782330,
+        "name": "Doom Eternal",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/7/76/Doom_Eternal_cover.jpg/300px-Doom_Eternal_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Doom_Eternal"
+    },
+    {
+        "steamId": 1059220,
+        "name": "'83",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/5/50/%2783_cover.jpg/300px-%2783_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/%2783"
+    },
+    {
+        "steamId": 879310,
+        "name": "'90s Football Stars",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/0/09/%2790s_Football_Stars_cover.jpg/300px-%2790s_Football_Stars_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/%2790s_Football_Stars"
+    },
+    {
+        "steamId": null,
+        "name": "0 A.D.",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/b/b0/0_AD_cover.jpg/300px-0_AD_cover.jpg",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/0_A.D."
+    },
+    {
+        "steamId": 211670,
+        "name": "007 Legends",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/a/af/007_Legends_Cover.jpg/300px-007_Legends_Cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/007_Legends"
+    },
+    {
+        "steamId": 932490,
+        "name": "1 ⛷ 1",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/7/71/1_%E2%9B%B7_1_cover.jpg/300px-1_%E2%9B%B7_1_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/1_%E2%9B%B7_1"
+    },
+    {
+        "steamId": 583570,
+        "name": "1-2-Swift",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/d/d4/1-2-Swift_cover.jpg/300px-1-2-Swift_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/1-2-Swift"
+    },
+    {
+        "steamId": 1015140,
+        "name": "10 Miles to Safety",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/2/28/10_Miles_To_Safety_cover.jpg/300px-10_Miles_To_Safety_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/10_Miles_to_Safety"
+    },
+    {
+        "steamId": 852190,
+        "name": "10 Seconds",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/7/7a/10_seconds_cover.jpg/300px-10_seconds_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/10_Seconds"
+    },
+    {
+        "steamId": 282800,
+        "name": "100% Orange Juice!",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/7/74/100p_Orange_Juice_Cover.png/300px-100p_Orange_Juice_Cover.png",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/100%25_Orange_Juice!"
+    },
+    {
+        "steamId": 260790,
+        "name": "1001 Spikes",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/f/f5/1001_Spikes_-_cover.jpg/300px-1001_Spikes_-_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/1001_Spikes"
+    },
+    {
+        "steamId": 368000,
+        "name": "100ft Robot Golf",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/8/88/100ft_Robot_Golf_cover.jpg/300px-100ft_Robot_Golf_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/100ft_Robot_Golf"
+    },
+    {
+        "steamId": 616750,
+        "name": "1943 Deadly Desert",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/d/d4/1943_Deadly_Desert_cover.jpg/300px-1943_Deadly_Desert_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/1943_Deadly_Desert"
+    },
+    {
+        "steamId": 575880,
+        "name": "1979 Invasion Earth",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/d/d6/1979_Invasion_Earth_cover.jpg/300px-1979_Invasion_Earth_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/1979_Invasion_Earth"
+    },
+    {
+        "steamId": 335190,
+        "name": "200% Mixed Juice!",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/5/56/200%25_Mixed_Juice_-_cover.jpg/300px-200%25_Mixed_Juice_-_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/200%25_Mixed_Juice!"
+    },
+    {
+        "steamId": null,
+        "name": "2002 FIFA World Cup",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/0/00/2002_FIFA_World_Cup.jpg/300px-2002_FIFA_World_Cup.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/2002_FIFA_World_Cup"
+    },
+    {
+        "steamId": null,
+        "name": "2006 FIFA World Cup",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/3/34/2006_FIFA_World_Cup_cover.jpg/300px-2006_FIFA_World_Cup_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/2006_FIFA_World_Cup"
+    },
+    {
+        "steamId": null,
+        "name": "2020 Super Baseball",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/f/f7/2020_Super_Baseball_cover.jpg/300px-2020_Super_Baseball_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/2020_Super_Baseball"
+    },
+    {
+        "steamId": 322110,
+        "name": "20XX",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/6/60/20XX_cover.jpg/300px-20XX_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/20XX"
+    },
+    {
+        "steamId": null,
+        "name": "221 B Baker St.",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/a/a4/221_B_Baker_St._cover.jpg/300px-221_B_Baker_St._cover.jpg",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/221_B_Baker_St."
+    },
+    {
+        "steamId": 665650,
+        "name": "2V Hoverbike",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/c/cc/2V_Hoverbike_cover.jpg/300px-2V_Hoverbike_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/2V_Hoverbike"
+    },
+    {
+        "steamId": null,
+        "name": "2XKO",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/a/a9/2XKO_cover.jpg/300px-2XKO_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/2XKO"
+    },
+    {
+        "steamId": null,
+        "name": "3 Count Bout",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/3/37/3_Count_Bout_cover.jpg/300px-3_Count_Bout_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/3_Count_Bout"
+    },
+    {
+        "steamId": null,
+        "name": "3-D Ultra Minigolf",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/a/af/3D_Ultra_Minigolf_cover.jpg/300px-3D_Ultra_Minigolf_cover.jpg",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/3-D_Ultra_Minigolf"
+    },
+    {
+        "steamId": null,
+        "name": "3-D Ultra Radio Control Racers",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/b/b8/Ultra_rc_racers.jpg/300px-Ultra_rc_racers.jpg",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/3-D_Ultra_Radio_Control_Racers"
+    },
+    {
+        "steamId": 259620,
+        "name": "3079",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/8/8f/3079_-_cover.jpg/300px-3079_-_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/3079"
+    },
+    {
+        "steamId": 263360,
+        "name": "3089",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/8/8b/3089_-_cover.png/300px-3089_-_cover.png",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/3089"
+    },
+    {
+        "steamId": 1029210,
+        "name": "30XX",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/8/8e/30XX_cover.jpg/300px-30XX_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/30XX"
+    },
+    {
+        "steamId": null,
+        "name": "3D Pinball for Windows - Space Cadet",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/6/61/3D_Pinball_for_Windows_-_Space_Cadet_logo.png/300px-3D_Pinball_for_Windows_-_Space_Cadet_logo.png",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/3D_Pinball_for_Windows_-_Space_Cadet"
+    },
+    {
+        "steamId": 624910,
+        "name": "3on3 FreeStyle",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/7/7f/3on3_FreeStyle_cover.jpg/300px-3on3_FreeStyle_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/3on3_FreeStyle"
+    },
+    {
+        "steamId": null,
+        "name": "4-4-2 Soccer",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/3/3d/4-4-2_Soccer_cover.png/300px-4-4-2_Soccer_cover.png",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/4-4-2_Soccer"
+    },
+    {
+        "steamId": 534320,
+        "name": "4Team",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/4/40/4Team_cover.jpg/300px-4Team_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/4Team"
+    },
+    {
+        "steamId": 1544720,
+        "name": "4th & Inches",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/8/8a/4th_%26_Inches_cover.jpg/300px-4th_%26_Inches_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/4th_%26_Inches"
+    },
+    {
+        "steamId": null,
+        "name": "4x4 Evo",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/e/e8/4x4_Evo_cover.jpg/300px-4x4_Evo_cover.jpg",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/4x4_Evo"
+    },
+    {
+        "steamId": null,
+        "name": "4x4 Evo 2",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/7/70/4x4_Evo_2_cover.jpg/300px-4x4_Evo_2_cover.jpg",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/4x4_Evo_2"
+    },
+    {
+        "steamId": 414510,
+        "name": "5089",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/5/52/5089_Cover.jpg/300px-5089_Cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/5089"
+    },
+    {
+        "steamId": 1349230,
+        "name": "5D Chess With Multiverse Time Travel",
+        "savePaths": [],
+        "coverUrl": "https://images.pcgamingwiki.com/6/69/5D_Chess_With_Multiverse_Time_Travel_-_Cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/5D_Chess_With_Multiverse_Time_Travel"
+    },
+    {
+        "steamId": 1460830,
+        "name": "6 Seasons and a Game",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/e/e5/6_Seasons_and_a_Game_cover.jpg/300px-6_Seasons_and_a_Game_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/6_Seasons_and_a_Game"
+    },
+    {
+        "steamId": 2202120,
+        "name": "63 Days",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/d/d8/63_Days_cover.jpg/300px-63_Days_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/63_Days"
+    },
+    {
+        "steamId": null,
+        "name": "688 Attack Sub",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/1/15/688_Attack_Sub_cover.jpg/300px-688_Attack_Sub_cover.jpg",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/688_Attack_Sub"
+    },
+    {
+        "steamId": 2900,
+        "name": "688(I) Hunter/Killer",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/b/bb/688I_Hunter_Killer_cover.jpg/300px-688I_Hunter_Killer_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/688(I)_Hunter/Killer"
+    },
+    {
+        "steamId": 712080,
+        "name": "7 Bones and 7 Stones - The Ritual",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/8/84/7_Bones_and_7_Stones_-_The_Ritual_cover.jpg/300px-7_Bones_and_7_Stones_-_The_Ritual_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/7_Bones_and_7_Stones_-_The_Ritual"
+    },
+    {
+        "steamId": 2312280,
+        "name": "7 Days Blood Moons",
+        "savePaths": [
+            "AppData\\LocalLow\\The Fun Pimps\\7 Days Blood Moons",
+            "AppData\\LocalLow\\The Fun Pimps\\7 Days Blood Moons\\Saves"
+        ],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/a/a6/7_Days_Blood_Moons_cover.jpg/300px-7_Days_Blood_Moons_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/7_Days_Blood_Moons"
+    },
+    {
+        "steamId": 251570,
+        "name": "7 Days to Die",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/e/eb/7_Days_to_Die_cover.jpg/300px-7_Days_to_Die_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/7_Days_to_Die"
+    },
+    {
+        "steamId": 327910,
+        "name": "7th Legion",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/b/b6/7th_Legion_cover.jpg/300px-7th_Legion_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/7th_Legion"
+    },
+    {
+        "steamId": 1136080,
+        "name": "8 Eyes",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/a/a3/8_Eyes_cover.jpg/300px-8_Eyes_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/8_Eyes"
+    },
+    {
+        "steamId": 427250,
+        "name": "8-Bit Armies",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/e/eb/8-bit_Armies_Cover.jpg/300px-8-bit_Armies_Cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/8-Bit_Armies"
+    },
+    {
+        "steamId": 287860,
+        "name": "8-Bit Commando",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/0/08/8-bit_Commando_header.jpg/300px-8-bit_Commando_header.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/8-Bit_Commando"
+    },
+    {
+        "steamId": 526540,
+        "name": "8infinity",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/8/80/8infinity_cover.jpg/300px-8infinity_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/8infinity"
+    },
+    {
+        "steamId": 739080,
+        "name": "9 Monkeys of Shaolin",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/8/8a/9_Monkeys_of_Shaolin_cover.png/300px-9_Monkeys_of_Shaolin_cover.png",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/9_Monkeys_of_Shaolin"
+    },
+    {
+        "steamId": 468070,
+        "name": "90 Minute Fever",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/4/43/90_Minute_Fever_cover.jpg/300px-90_Minute_Fever_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/90_Minute_Fever"
+    },
+    {
+        "steamId": 536050,
+        "name": "994 W 24th",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/8/85/994_W_24th_cover.jpg/300px-994_W_24th_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/994_W_24th"
+    },
+    {
+        "steamId": 390100,
+        "name": "9Dragons",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/a/a3/9Dragons_cover.jpg/300px-9Dragons_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/9Dragons"
+    },
+    {
+        "steamId": null,
+        "name": "9mm",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/5/50/9mm.jpg/300px-9mm.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/9mm"
+    },
+    {
+        "steamId": 1154850,
+        "name": "9th Dawn III",
+        "savePaths": [
+            "AppData\\LocalLow\\Valorware\\9th Dawn III\\configB.txt",
+            "AppData\\LocalLow\\Valorware\\9th Dawn III\\SaveData\\gogsave\\*.txt",
+            "AppData\\LocalLow\\Valorware\\9th Dawn III\\SaveData\\SteamID_"
+        ],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/d/d4/9th_Dawn_III_-_Cover.jpg/300px-9th_Dawn_III_-_Cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/9th_Dawn_III"
+    },
+    {
+        "steamId": 1275070,
+        "name": "A Buttload of Free Games",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/7/77/A_Buttload_of_Free_Games_cover.jpg/300px-A_Buttload_of_Free_Games_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/A_Buttload_of_Free_Games"
+    },
+    {
+        "steamId": 333970,
+        "name": "A Druid's Duel",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/8/8e/A_Druid%27s_Duel_cover.jpg/300px-A_Druid%27s_Duel_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/A_Druid%27s_Duel"
+    },
+    {
+        "steamId": 3805420,
+        "name": "A Few Quick Matches",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/7/73/A_Few_Quick_Matches_Cover.jpg/300px-A_Few_Quick_Matches_Cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/A_Few_Quick_Matches"
+    },
+    {
+        "steamId": 229810,
+        "name": "A Fistful of Gun",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/5/57/A_Fistful_of_Gun_-_Cover.png/300px-A_Fistful_of_Gun_-_Cover.png",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/A_Fistful_of_Gun"
+    },
+    {
+        "steamId": 58550,
+        "name": "A Game of Thrones - Genesis",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/b/bf/A_Game_of_Thrones_-_Genesis_cover.jpg/300px-A_Game_of_Thrones_-_Genesis_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/A_Game_of_Thrones_-_Genesis"
+    },
+    {
+        "steamId": 585190,
+        "name": "A Gummy's Life",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/2/24/A_Gummy%27s_Life_cover.jpg/300px-A_Gummy%27s_Life_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/A_Gummy%27s_Life"
+    },
+    {
+        "steamId": 253230,
+        "name": "A Hat in Time",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/0/05/A_Hat_in_Time_cover.png/300px-A_Hat_in_Time_cover.png",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/A_Hat_in_Time"
+    },
+    {
+        "steamId": null,
+        "name": "A New Zero",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/7/79/A_New_Zero_Title_Screen.png/300px-A_New_Zero_Title_Screen.png",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/A_New_Zero"
+    },
+    {
+        "steamId": 209330,
+        "name": "A Valley Without Wind",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/7/72/A_valley_without_wind.jpg/300px-A_valley_without_wind.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/A_Valley_Without_Wind"
+    },
+    {
+        "steamId": 228320,
+        "name": "A Valley Without Wind 2",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/d/d0/A_valley_without_wind_2.jpg/300px-A_valley_without_wind_2.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/A_Valley_Without_Wind_2"
+    },
+    {
+        "steamId": 842420,
+        "name": "A Walk in the Woods",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/0/03/A_Walk_in_the_Woods_cover.jpg/300px-A_Walk_in_the_Woods_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/A_Walk_in_the_Woods"
+    },
+    {
+        "steamId": 1222700,
+        "name": "A Way Out",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/0/0d/A_Way_Out_cover.jpg/300px-A_Way_Out_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/A_Way_Out"
+    },
+    {
+        "steamId": 3238580,
+        "name": "A World of Keflings",
+        "savePaths": [],
+        "coverUrl": "https://images.pcgamingwiki.com/d/d4/A_World_of_Keflings_-_Cover.png",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/A_World_of_Keflings"
+    },
+    {
+        "steamId": 319540,
+        "name": "A Year of Rain",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/e/ed/A_Year_Of_Rain_cover.png/300px-A_Year_Of_Rain_cover.png",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/A_Year_of_Rain"
+    },
+    {
+        "steamId": null,
+        "name": "A-10 Cuba!",
+        "savePaths": [],
+        "coverUrl": "https://images.pcgamingwiki.com/c/c2/A-10_Cuba%21_Coverart.png",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/A-10_Cuba!"
+    },
+    {
+        "steamId": 46200,
+        "name": "A.I.M. Racing",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/3/3a/AIM_Racing_Cover.jpg/300px-AIM_Racing_Cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/A.I.M._Racing"
+    },
+    {
+        "steamId": 279480,
+        "name": "Abalone",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/8/85/Abalone_cover.jpg/300px-Abalone_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Abalone"
+    },
+    {
+        "steamId": 2295610,
+        "name": "Abathor",
+        "savePaths": [
+            "AppData\\Local\\Abathor\\options.ini",
+            "AppData\\Local\\Abathor\\saves\\*.dat"
+        ],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/c/c8/Abathor_cover.jpg/300px-Abathor_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Abathor"
+    },
+    {
+        "steamId": 314350,
+        "name": "Abatron",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/6/6d/Abatron_cover.jpg/300px-Abatron_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Abatron"
+    },
+    {
+        "steamId": 354200,
+        "name": "Aberoth",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/c/c7/Aberoth_cover.jpg/300px-Aberoth_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Aberoth"
+    },
+    {
+        "steamId": 427410,
+        "name": "Abiotic Factor",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/4/41/Abiotic_Factor_cover.jpg/300px-Abiotic_Factor_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Abiotic_Factor"
+    },
+    {
+        "steamId": 2857200,
+        "name": "Abiotic Factor Dedicated Server",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/4/41/Abiotic_Factor_cover.jpg/300px-Abiotic_Factor_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Abiotic_Factor_Dedicated_Server"
+    },
+    {
+        "steamId": 1670160,
+        "name": "Ablight",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/5/52/Ablight_cover.jpg/300px-Ablight_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Ablight"
+    },
+    {
+        "steamId": 979000,
+        "name": "Abrakadaboom",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/9/9f/Abrakadaboom_cover.jpg/300px-Abrakadaboom_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Abrakadaboom"
+    },
+    {
+        "steamId": 1904480,
+        "name": "Absolum",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/4/44/Absolum_-_Cover.jpg/300px-Absolum_-_Cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Absolum"
+    },
+    {
+        "steamId": null,
+        "name": "Abuse",
+        "savePaths": [],
+        "coverUrl": "https://images.pcgamingwiki.com/4/46/Abuse_Cover.png",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/Abuse"
+    },
+    {
+        "steamId": 769520,
+        "name": "Abyss Crew",
+        "savePaths": [],
+        "coverUrl": "https://images.pcgamingwiki.com/e/eb/Abyss_Crew_Cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Abyss_Crew"
+    },
+    {
+        "steamId": 255070,
+        "name": "Abyss Odyssey",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/d/d2/Abyss_Odyssey_cover.jpg/300px-Abyss_Odyssey_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Abyss_Odyssey"
+    },
+    {
+        "steamId": 1721110,
+        "name": "Abyssus",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/5/57/Abyssus_Cover.jpg/300px-Abyssus_Cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Abyssus"
+    },
+    {
+        "steamId": null,
+        "name": "ACA NeoGeo The King of Fighters '94",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/6/67/ACA_NEOGEO_King_of_Fighters_%2794.jpg/300px-ACA_NEOGEO_King_of_Fighters_%2794.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/ACA_NeoGeo_The_King_of_Fighters_%2794"
+    },
+    {
+        "steamId": null,
+        "name": "ACA NeoGeo The King of Fighters '95",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/4/41/ACA_NEOGEO_King_of_Fighters_%2795.jpg/300px-ACA_NEOGEO_King_of_Fighters_%2795.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/ACA_NeoGeo_The_King_of_Fighters_%2795"
+    },
+    {
+        "steamId": null,
+        "name": "ACA NeoGeo The King of Fighters '96",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/4/46/ACA_NeoGeo_The_King_of_Fighters_%2796.jpeg/300px-ACA_NeoGeo_The_King_of_Fighters_%2796.jpeg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/ACA_NeoGeo_The_King_of_Fighters_%2796"
+    },
+    {
+        "steamId": null,
+        "name": "ACA NeoGeo The King of Fighters '97",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/a/aa/ACA_NeoGeo_The_King_of_Fighters_%2797.jpeg/300px-ACA_NeoGeo_The_King_of_Fighters_%2797.jpeg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/ACA_NeoGeo_The_King_of_Fighters_%2797"
+    },
+    {
+        "steamId": null,
+        "name": "ACA NeoGeo The King of Fighters '98",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/6/65/ACA_NeoGeo_The_King_of_Fighters_%2798.jpg/300px-ACA_NeoGeo_The_King_of_Fighters_%2798.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/ACA_NeoGeo_The_King_of_Fighters_%2798"
+    },
+    {
+        "steamId": null,
+        "name": "ACA NeoGeo The King of Fighters '99",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/7/77/ACA_NeoGeo_The_King_of_Fighters_%2799.jpg/300px-ACA_NeoGeo_The_King_of_Fighters_%2799.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/ACA_NeoGeo_The_King_of_Fighters_%2799"
+    },
+    {
+        "steamId": null,
+        "name": "ACA NeoGeo The King of Fighters 2000",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/7/7d/ACA_NeoGeo_The_King_of_Fighters_2000.jpg/300px-ACA_NeoGeo_The_King_of_Fighters_2000.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/ACA_NeoGeo_The_King_of_Fighters_2000"
+    },
+    {
+        "steamId": null,
+        "name": "ACA NeoGeo The King of Fighters 2001",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/2/2d/ACA_NeoGeo_The_King_of_Fighters_2001.jpg/300px-ACA_NeoGeo_The_King_of_Fighters_2001.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/ACA_NeoGeo_The_King_of_Fighters_2001"
+    },
+    {
+        "steamId": null,
+        "name": "ACA NeoGeo The King of Fighters 2002",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/2/27/ACA_NeoGeo_The_King_of_Fighters_2002.jpg/300px-ACA_NeoGeo_The_King_of_Fighters_2002.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/ACA_NeoGeo_The_King_of_Fighters_2002"
+    },
+    {
+        "steamId": null,
+        "name": "ACA NeoGeo The King of Fighters 2003",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/b/b5/ACA_NeoGeo_The_King_of_Fighters_2003.jpg/300px-ACA_NeoGeo_The_King_of_Fighters_2003.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/ACA_NeoGeo_The_King_of_Fighters_2003"
+    },
+    {
+        "steamId": 607880,
+        "name": "Accel World vs. Sword Art Online",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/5/56/Accel_World_vs_Sword_Art_Online_cover.jpg/300px-Accel_World_vs_Sword_Art_Online_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Accel_World_vs._Sword_Art_Online"
+    },
+    {
+        "steamId": null,
+        "name": "Acceleration of SUGURI",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/9/92/Acceleration_of_SUGURI_-_cover.png/300px-Acceleration_of_SUGURI_-_cover.png",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/Acceleration_of_SUGURI"
+    },
+    {
+        "steamId": 390710,
+        "name": "Acceleration of SUGURI 2",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/6/67/Acceleration_of_SUGURI_2_-_Cover.png/300px-Acceleration_of_SUGURI_2_-_Cover.png",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Acceleration_of_SUGURI_2"
+    },
+    {
+        "steamId": 265170,
+        "name": "Acceleration of SUGURI X-Edition HD",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/7/75/Acceleration_of_SUGURI_X-Edition_HD_-_Steam_Cover.png/300px-Acceleration_of_SUGURI_X-Edition_HD_-_Steam_Cover.png",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Acceleration_of_SUGURI_X-Edition_HD"
+    },
+    {
+        "steamId": 495290,
+        "name": "AccuRC 2",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/a/a0/AccuRC_2_cover.jpg/300px-AccuRC_2_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/AccuRC_2"
+    },
+    {
+        "steamId": 1245610,
+        "name": "AChat",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/8/8f/AChat.jpg/300px-AChat.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/AChat"
+    },
+    {
+        "steamId": 1702130,
+        "name": "ACL Pro Cornhole",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/2/21/ACL_Pro_Cornhole.jpg/300px-ACL_Pro_Cornhole.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/ACL_Pro_Cornhole"
+    },
+    {
+        "steamId": 1385380,
+        "name": "Across the Obelisk",
+        "savePaths": [
+            "AppData\\LocalLow\\Dreamsite Games"
+        ],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/1/19/Across_the_Obelisk_cover.jpg/300px-Across_the_Obelisk_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Across_the_Obelisk"
+    },
+    {
+        "steamId": 675500,
+        "name": "Act It Out XL! A Game of Charades",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/c/cc/Act_It_Out_XL%21_A_Game_of_Charades_cover.jpg/300px-Act_It_Out_XL%21_A_Game_of_Charades_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Act_It_Out_XL!_A_Game_of_Charades"
+    },
+    {
+        "steamId": 318020,
+        "name": "Act of Aggression",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/0/07/Act_of_Aggression_-_cover.jpg/300px-Act_of_Aggression_-_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Act_of_Aggression"
+    },
+    {
+        "steamId": 1335200,
+        "name": "Action Taimanin",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/8/8f/Action_Taimanin_cover.jpg/300px-Action_Taimanin_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Action_Taimanin"
+    },
+    {
+        "steamId": 2887580,
+        "name": "Active Matter",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/0/0b/Active_Matter_cover.jpg/300px-Active_Matter_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Active_Matter"
+    },
+    {
+        "steamId": null,
+        "name": "Active Worlds",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/5/52/Active_Worlds_cover.jpg/300px-Active_Worlds_cover.jpg",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/Active_Worlds"
+    },
+    {
+        "steamId": 2183800,
+        "name": "Actua Golf",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/b/b6/Actua_Golf_cover.jpg/300px-Actua_Golf_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Actua_Golf"
+    },
+    {
+        "steamId": null,
+        "name": "Actua Pool",
+        "savePaths": [],
+        "coverUrl": "https://images.pcgamingwiki.com/1/11/Actua_Pool_cover.jpg",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/Actua_Pool"
+    },
+    {
+        "steamId": 2152690,
+        "name": "Actua Soccer 2",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/3/3f/Actua_Soccer_2_cover.jpg/300px-Actua_Soccer_2_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Actua_Soccer_2"
+    },
+    {
+        "steamId": 285030,
+        "name": "Actua Soccer 3",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/3/36/Actua_Soccer_3_cover.jpg/300px-Actua_Soccer_3_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Actua_Soccer_3"
+    },
+    {
+        "steamId": null,
+        "name": "Actua Soccer Club Edition",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/8/8e/Actua_Soccer_Club_Edition_front_cover.jpg/300px-Actua_Soccer_Club_Edition_front_cover.jpg",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/Actua_Soccer_Club_Edition"
+    },
+    {
+        "steamId": 2152730,
+        "name": "Actua Tennis",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/5/53/Actua_Tennis_cover.jpg/300px-Actua_Tennis_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Actua_Tennis"
+    },
+    {
+        "steamId": null,
+        "name": "Adidas Power Soccer",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/6/61/Adidas_Power_Soccer_cover.png/300px-Adidas_Power_Soccer_cover.png",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/Adidas_Power_Soccer"
+    },
+    {
+        "steamId": null,
+        "name": "Adidas Power Soccer 98",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/f/f2/Adidas-power-soccer-98-windows-front-cover.jpg/300px-Adidas-power-soccer-98-windows-front-cover.jpg",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/Adidas_Power_Soccer_98"
+    },
+    {
+        "steamId": 366760,
+        "name": "Adorables",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/1/1f/Adorables_cover.jpg/300px-Adorables_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Adorables"
+    },
+    {
+        "steamId": null,
+        "name": "Adrenix",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/d/d7/Adrenix_cover.jpg/300px-Adrenix_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Adrenix"
+    },
+    {
+        "steamId": 1050580,
+        "name": "Adventure In Aellion",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/3/33/Adventure_In_Aellion_cover.jpg/300px-Adventure_In_Aellion_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Adventure_In_Aellion"
+    },
+    {
+        "steamId": 429790,
+        "name": "AdventureQuest 3D",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/d/d8/AdventureQuest_3D_cover.jpg/300px-AdventureQuest_3D_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/AdventureQuest_3D"
+    },
+    {
+        "steamId": null,
+        "name": "The Adventures of Square",
+        "savePaths": [],
+        "coverUrl": "https://images.pcgamingwiki.com/6/6b/The_Adventures_of_Square_cover.png",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/The_Adventures_of_Square"
+    },
+    {
+        "steamId": 371140,
+        "name": "Aegis Defenders",
+        "savePaths": [
+            "AppData\\LocalLow\\GUTS Department\\Aegis Defenders\\inputPrefs.data",
+            "AppData\\LocalLow\\GUTS Department\\Aegis Defenders\\"
+        ],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/3/3f/Aegis_Defenders_cover.jpg/300px-Aegis_Defenders_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Aegis_Defenders"
+    },
+    {
+        "steamId": 1097770,
+        "name": "Aeolis Tournament",
+        "savePaths": [
+            "AppData\\LocalLow\\Beyond Fun Studio\\Aeolis Tournament"
+        ],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/7/71/Aeolis_Tournament_cover.jpg/300px-Aeolis_Tournament_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Aeolis_Tournament"
+    },
+    {
+        "steamId": 573660,
+        "name": "AereA",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/b/b5/AereA_cover.jpg/300px-AereA_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/AereA"
+    },
+    {
+        "steamId": 2804740,
+        "name": "Aerial Knight's We Never Yield",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/5/57/AerialKnightWeNeverYieldCover.jpg/300px-AerialKnightWeNeverYieldCover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Aerial_Knight%27s_We_Never_Yield"
+    },
+    {
+        "steamId": null,
+        "name": "Aero Fighters 2",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/d/d8/Aero_Fighters_2_cover.jpg/300px-Aero_Fighters_2_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Aero_Fighters_2"
+    },
+    {
+        "steamId": null,
+        "name": "Aero Fighters 3",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/c/c9/Aero_Fighters_3_cover.jpg/300px-Aero_Fighters_3_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Aero_Fighters_3"
+    },
+    {
+        "steamId": 2160360,
+        "name": "Aero GPX",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/d/dd/Aero_gpx_header.jpg/300px-Aero_gpx_header.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Aero_GPX"
+    },
+    {
+        "steamId": 659900,
+        "name": "Aetherspace",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/a/a3/Aetherspace_cover.jpg/300px-Aetherspace_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Aetherspace"
+    },
+    {
+        "steamId": 1913210,
+        "name": "AEW Fight Forever",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/7/71/AEW_Fight_Forever_cover.jpg/300px-AEW_Fight_Forever_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/AEW_Fight_Forever"
+    },
+    {
+        "steamId": 2337630,
+        "name": "AFL 23",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/6/62/AFL_23_cover.jpg/300px-AFL_23_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/AFL_23"
+    },
+    {
+        "steamId": 751630,
+        "name": "After the Fall",
+        "savePaths": [
+            "AppData\\LocalLow\\Vertigo Games\\AfterTheFall\\"
+        ],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/8/8b/After_the_Fall_-_cover.jpg/300px-After_the_Fall_-_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/After_the_Fall"
+    },
+    {
+        "steamId": 492760,
+        "name": "Aftercharge",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/1/12/Aftercharge_cover.jpg/300px-Aftercharge_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Aftercharge"
+    },
+    {
+        "steamId": 432080,
+        "name": "AfterShock",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/0/02/AfterShock_cover.jpg/300px-AfterShock_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/AfterShock"
+    },
+    {
+        "steamId": 1465560,
+        "name": "Against All Odds",
+        "savePaths": [
+            "AppData\\LocalLow\\Microwave Games\\Against All Odds\\"
+        ],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/4/46/Against_all_odds_cover.jpg/300px-Against_all_odds_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Against_All_Odds"
+    },
+    {
+        "steamId": null,
+        "name": "Against Rome",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/9/93/Against_Rome_Cover.jpg/300px-Against_Rome_Cover.jpg",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/Against_Rome"
+    },
+    {
+        "steamId": 17510,
+        "name": "Age of Chivalry",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/a/ae/Age_of_Chivalry_cover.jpg/300px-Age_of_Chivalry_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Age_of_Chivalry"
+    },
+    {
+        "steamId": 314970,
+        "name": "Age of Conquest IV",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/7/7e/Age_of_Conquest_IV_cover.jpg/300px-Age_of_Conquest_IV_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Age_of_Conquest_IV"
+    },
+    {
+        "steamId": null,
+        "name": "Age of Empires",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/3/32/Age_of_Empires_Box.jpg/300px-Age_of_Empires_Box.jpg",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/Age_of_Empires"
+    },
+    {
+        "steamId": 105450,
+        "name": "Age of Empires III",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/e/e2/AOE3_Boxart.jpeg/300px-AOE3_Boxart.jpeg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Age_of_Empires_III"
+    },
+    {
+        "steamId": 1466860,
+        "name": "Age of Empires IV",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/4/46/Age_of_Empires_IV_cover.jpg/300px-Age_of_Empires_IV_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Age_of_Empires_IV"
+    },
+    {
+        "steamId": 2783360,
+        "name": "Age of Empires Mobile",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/d/db/AgeOfEmpiresMobileCover.jpg/300px-AgeOfEmpiresMobileCover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Age_of_Empires_Mobile"
+    },
+    {
+        "steamId": 105430,
+        "name": "Age of Empires Online",
+        "savePaths": [],
+        "coverUrl": "https://images.pcgamingwiki.com/2/2d/Age_of_Empires_Online_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Age_of_Empires_Online"
+    },
+    {
+        "steamId": null,
+        "name": "Age of Mythology",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/3/3f/Age_of_Mythology_Cover.jpg/300px-Age_of_Mythology_Cover.jpg",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/Age_of_Mythology"
+    },
+    {
+        "steamId": 61500,
+        "name": "Age of Wonders",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/4/4c/Age_of_wonders.jpg/300px-Age_of_wonders.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Age_of_Wonders"
+    },
+    {
+        "steamId": 1669000,
+        "name": "Age of Wonders 4",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/2/27/Age_of_Wonders_4_cover.jpg/300px-Age_of_Wonders_4_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Age_of_Wonders_4"
+    },
+    {
+        "steamId": 226840,
+        "name": "Age of Wonders III",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/3/3b/Age_of_Wonders_III_-_cover.jpg/300px-Age_of_Wonders_III_-_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Age_of_Wonders_III"
+    },
+    {
+        "steamId": null,
+        "name": "Aggressors of Dark Kombat",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/6/64/Aggressors_of_Dark_Kombat_cover.jpg/300px-Aggressors_of_Dark_Kombat_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Aggressors_of_Dark_Kombat"
+    },
+    {
+        "steamId": 92900,
+        "name": "Agricultural Simulator 2011",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/c/c1/Agricultural_Simulator_2011_cover.jpg/300px-Agricultural_Simulator_2011_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Agricultural_Simulator_2011"
+    },
+    {
+        "steamId": 273790,
+        "name": "Agricultural Simulator 2012",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/1/1b/Agricultural_Simulator_2012_cover.jpg/300px-Agricultural_Simulator_2012_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Agricultural_Simulator_2012"
+    },
+    {
+        "steamId": 236790,
+        "name": "Agricultural Simulator 2013",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/8/87/Agricultural_Simulator_2013_cover.jpg/300px-Agricultural_Simulator_2013_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Agricultural_Simulator_2013"
+    },
+    {
+        "steamId": 876650,
+        "name": "Aground",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/d/d4/Aground_cover.jpg/300px-Aground_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Aground"
+    },
+    {
+        "steamId": null,
+        "name": "AHx-1",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/0/09/AHx-1_cover.jpg/300px-AHx-1_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/AHx-1"
+    },
+    {
+        "steamId": 573410,
+        "name": "AI War 2",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/9/98/AI_War_2_cover.jpg/300px-AI_War_2_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/AI_War_2"
+    },
+    {
+        "steamId": 261430,
+        "name": "Aion",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/8/80/AION_Free-to-Play_cover.jpg/300px-AION_Free-to-Play_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Aion"
+    },
+    {
+        "steamId": 3020310,
+        "name": "Air Warrior II",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/2/2d/Air_Warrior_II_cover.jpg/300px-Air_Warrior_II_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Air_Warrior_II"
+    },
+    {
+        "steamId": 3020320,
+        "name": "Air Warrior III",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/2/2e/Air_Warrior_III_cover.jpg/300px-Air_Warrior_III_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Air_Warrior_III"
+    },
+    {
+        "steamId": 511730,
+        "name": "Airborne Empires",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/e/e5/Tablemen_cover.jpg/300px-Tablemen_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Airborne_Empires"
+    },
+    {
+        "steamId": 223630,
+        "name": "AirBuccaneers",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/c/cb/AirBuccaneers_Coverart.png/300px-AirBuccaneers_Coverart.png",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/AirBuccaneers"
+    },
+    {
+        "steamId": null,
+        "name": "Airfix Dogfighter",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/8/83/Airfix_Dogfighter_cover.jpeg/300px-Airfix_Dogfighter_cover.jpeg",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/Airfix_Dogfighter"
+    },
+    {
+        "steamId": 331920,
+        "name": "Airline Tycoon Deluxe",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/2/21/Airline_Tycoon_Deluxe_-_Cover.jpg/300px-Airline_Tycoon_Deluxe_-_Cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Airline_Tycoon_Deluxe"
+    },
+    {
+        "steamId": null,
+        "name": "Airline Tycoon Evolution",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/2/2f/Airline_Tycoon_Evolution_cover.jpg/300px-Airline_Tycoon_Evolution_cover.jpg",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/Airline_Tycoon_Evolution"
+    },
+    {
+        "steamId": null,
+        "name": "Airline Tycoon First Class",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/b/b2/Airline_Tycoon_First_Class_cover.jpg/300px-Airline_Tycoon_First_Class_cover.jpg",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/Airline_Tycoon_First_Class"
+    },
+    {
+        "steamId": 647740,
+        "name": "Airmen",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/8/8d/Airmen_cover.jpg/300px-Airmen_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Airmen"
+    },
+    {
+        "steamId": null,
+        "name": "AirStrike 2",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/4/4f/Airstrike-2-windows-front-cover.jpg/300px-Airstrike-2-windows-front-cover.jpg",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/AirStrike_2"
+    },
+    {
+        "steamId": 2076220,
+        "name": "Akai Katana Shin",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/d/db/Akai_Katana_Shin_cover.jpg/300px-Akai_Katana_Shin_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Akai_Katana_Shin"
+    },
+    {
+        "steamId": null,
+        "name": "Akte Europa",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/c/c9/Akte_Europa.jpg/300px-Akte_Europa.jpg",
+        "coop": true,
+        "steamCloud": false,
+        "source": "https://www.pcgamingwiki.com/wiki/Akte_Europa"
+    },
+    {
+        "steamId": null,
+        "name": "Al Unser Jr. Arcade Racing",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/8/8e/Al_Unser_Jr._Arcade_Racing_cover.jpg/300px-Al_Unser_Jr._Arcade_Racing_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Al_Unser_Jr._Arcade_Racing"
+    },
+    {
+        "steamId": 971700,
+        "name": "ALARA Prime",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/e/e7/ALARAPrimeCover.jpg/300px-ALARAPrimeCover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/ALARA_Prime"
+    },
+    {
+        "steamId": 867470,
+        "name": "Albedon Wars",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/0/0f/Albedon_Wars_cover.jpg/300px-Albedon_Wars_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Albedon_Wars"
+    },
+    {
+        "steamId": 761890,
+        "name": "Albion Online",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/6/64/Albion_Online_cover.jpg/300px-Albion_Online_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Albion_Online"
+    },
+    {
+        "steamId": 521620,
+        "name": "Alchemist Adventure",
+        "savePaths": [],
+        "coverUrl": "https://thumbnails.pcgamingwiki.com/c/cf/Alchemist_Adventure_cover.jpg/300px-Alchemist_Adventure_cover.jpg",
+        "coop": true,
+        "steamCloud": true,
+        "source": "https://www.pcgamingwiki.com/wiki/Alchemist_Adventure"
+    }
+]
