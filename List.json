@@ -4,7 +4,7 @@
         "name": "Solarpunk",
         "savePaths": [
             "<path-to-game>\\Solarpunk\\Saved\\Config\\Windows",
-            "<path-to-game>\\Solarpunk\\Saved\\SaveGames"
+            "AppData\\Local\\Solarpunk\\Saved\\SaveGames"
         ],
         "coverUrl": "https://thumbnails.pcgamingwiki.com/b/b5/Solarpunk_cover.jpg/300px-Solarpunk_cover.jpg",
         "coop": true,
